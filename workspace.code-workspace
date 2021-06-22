@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": ".leetcode",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.home": "/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home"
+	}
+}
