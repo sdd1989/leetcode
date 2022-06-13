@@ -1,3 +1,8 @@
+# @before-stub-for-debug-begin
+from python3problem29 import *
+from typing import *
+# @before-stub-for-debug-end
+
 #
 # @lc app=leetcode.cn id=29 lang=python3
 #
@@ -31,7 +36,7 @@ class Solution:
         ans = l
         #这个模版不行？
         # while l < r:
-        #     mid = l + r >> 1
+        #     mid = (l + r) >> 1
         #     if self.mul(mid, y) >= x:
         #         r = mid
         #     else:
